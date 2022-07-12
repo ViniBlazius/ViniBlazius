@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinicius Blazius Goulart</h1>
 <h3 align="center">A web development student from Brazil looking to learn new technologies and understand old ones, and looking to contribute in open source projects in the future.</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinibgoulart" alt="vinibgoulart" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinibgoulart" alt="vinibgoulart" /></a> </p>
 
 - 🔭 I’m currently working in [Highsoft Sistemas](https://github.com/HighsoftWeb)
 
@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/vinibgoulart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vinibgoulart" height="30" width="40" /></a>
-<a href="https://twitter.com/@vinigoulartt_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vinigoulartt_" height="30" width="40" /></a>
+<a href="https://twitter.com/@vini_bgoulart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vini_bgoulart" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/282266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="282266" height="30" width="40" /></a>
 </p>
 
