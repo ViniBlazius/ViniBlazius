@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinicius Blazius Goulart</h1>
 <h3 align="center">A web development student from Brazil looking to learn new technologies and understand old ones, and looking to contribute in open source projects in the future.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinibgoulart" alt="vinibgoulart" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinibgoulart" alt="vinibgoulart" /></a> </p>
 
 - 🔭 I’m currently working in [Highsoft Sistemas](https://github.com/HighsoftWeb)
 
