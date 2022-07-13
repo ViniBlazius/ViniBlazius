@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinicius Blazius Goulart</h1>
 <h3 align="center">A web development student from Brazil looking to learn new technologies and understand old ones, and looking to contribute in open source projects in the future.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinibgoulart" alt="vinibgoulart" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=vinibgoulart" alt="vinibgoulart" /></a> </p>
 
 - 🔭 I’m currently working in [Highsoft Sistemas](https://github.com/HighsoftWeb)
 
@@ -29,6 +29,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinibgoulart&show_icons=true&locale=en&layout=compact" alt="vinibgoulart" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinibgoulart&show_icons=true&locale=en" alt="vinibgoulart" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinibgoulart&" alt="vinibgoulart" /></p>
+<div>
+  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinibgoulart&show_icons=true&locale=en" alt="vinibgoulart" /></p>
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinibgoulart&" alt="vinibgoulart" /></p>
+</div>
